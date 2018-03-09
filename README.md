@@ -29,6 +29,6 @@ You should create one R script called run_analysis.R that does the following.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-The code is written in the file named 'r_analysis.r' and it is called in the markdown file 'r_analysis.rmd'.
+The code is written in the file named 'run_analysis.r' and it is called in the markdown file 'run_analysis.rmd'.
 
 The tidy data set is saved as 'DatasetHumanActivityRecognitionUsingSmartphones.txt' (tab delimitted file).
